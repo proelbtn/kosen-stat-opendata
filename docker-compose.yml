@@ -6,3 +6,4 @@ services:
             - .:/data
         working_dir: /data
         command: python src/main.py
+
